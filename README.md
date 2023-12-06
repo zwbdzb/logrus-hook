@@ -45,4 +45,8 @@ ok      github.com/zwbdzb/logrus-bufferedWriterHook     3.638s
  ```
 
 
+##  logrus-mysql-hook
+
+log to mysql for aduit，
+
 

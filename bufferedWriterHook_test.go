@@ -1,4 +1,4 @@
-package hook
+package logrushook
 
 import (
 	"io"
